@@ -6,3 +6,4 @@
 this is my first demo project
 
 **Hello this is Bold test**
+*Hello this is Bold test*
