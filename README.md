@@ -28,3 +28,9 @@ This site was built using [my home page](https://google.com/).
 - John Adams
 - Thomas Jefferson
 - Esa Dora
+1. First list item
+   - First nested list item
+     - Second nested list item
+- [ ] Finish my changes
+- [x] Push my commits to GitHub
+- [x] Open a pull request
