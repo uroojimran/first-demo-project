@@ -24,3 +24,7 @@ git commit
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 This site was built using [my home page](https://google.com/).
+- George Washington
+- John Adams
+- Thomas Jefferson
+-Esa Dora
